@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-24T19:31:09 IST" name="Default Suite" finished-at="2024-08-24T19:31:15 IST" duration-ms="6670">
+    <groups>
+    </groups>
+    <test started-at="2024-08-24T19:31:09 IST" name="Project1" finished-at="2024-08-24T19:31:15 IST" duration-ms="6670">
+      <class name="Assigment">
+        <test-method signature="invalidEmailAndValidPassword()[pri:0, instance:Assigment@33308786]" started-at="2024-08-24T19:31:09 IST" name="invalidEmailAndValidPassword" finished-at="2024-08-24T19:31:12 IST" duration-ms="3662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmailAndValidPassword -->
+        <test-method signature="nocredentials()[pri:0, instance:Assigment@33308786]" started-at="2024-08-24T19:31:12 IST" name="nocredentials" finished-at="2024-08-24T19:31:13 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nocredentials -->
+        <test-method signature="validUserName_InvalidPasswor()[pri:0, instance:Assigment@33308786]" started-at="2024-08-24T19:31:13 IST" name="validUserName_InvalidPasswor" finished-at="2024-08-24T19:31:14 IST" duration-ms="1314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserName_InvalidPasswor -->
+        <test-method signature="valid_UserName_And_ValidPassword()[pri:0, instance:Assigment@33308786]" started-at="2024-08-24T19:31:14 IST" name="valid_UserName_And_ValidPassword" description="valid UserName and Valid Password" finished-at="2024-08-24T19:31:15 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_UserName_And_ValidPassword -->
+      </class> <!-- Assigment -->
+    </test> <!-- Project1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
